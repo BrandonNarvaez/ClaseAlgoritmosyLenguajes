@@ -1,0 +1,1 @@
+read.table(file = "C:/Users/Jesus Narvaez/Documents/instancia_ejemplo.txt")
